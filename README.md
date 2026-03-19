@@ -4,12 +4,6 @@ Repository and collection of materials and stuff I have found and tried, around 
 ## Levels of interacting with AI
 AI is continously evolving. There are many ways and levels how you can interact with AI. 
 
-[![Watch the video](https://img.youtube.com/vi/6W_-YWHKwZ4/hqdefault.jpg)](https://www.youtube.com/embed/6W_-YWHKwZ4)
-
-
-
-https://www.youtube.com/watch?v=6W_-YWHKwZ4
-
 Stages:
 
 <details><summary>  Stage 1: Chat interface coding </summary>
@@ -87,6 +81,8 @@ Skills:
 
 </details>
 
+This summary is based on this vide:
+[![Watch the video](https://img.youtube.com/vi/6W_-YWHKwZ4/hqdefault.jpg)](https://www.youtube.com/embed/6W_-YWHKwZ4)
   
 
 ## Claude in yolo mode (in a container)
