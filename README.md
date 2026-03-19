@@ -6,6 +6,7 @@ AI is continously evolving. There are many ways and levels how you can interact 
 
 Stages:
 
+<details><summary>## Stage 1: Chat interface coding</summary>Peek a boo!</details>
 ## Stage 1: Chat interface coding
 What: Having Chat/GPT or Claude open, chatting with the model, having the chat interface open and using it for code. Copying and pasting code
 
