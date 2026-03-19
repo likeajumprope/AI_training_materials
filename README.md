@@ -98,5 +98,7 @@ This repository: https://github.com/con/yolo
 
 Spec-Kit is GitHub's toolkit for "Spec-Driven Development",  a methodology where you write detailed specifications first, then use AI agents to implement them. It's designed to work with various AI coding assistants including Claude Code.
 
+An example project with spec-kit: Building a website on advanced git use.
+
 
 ## Skills
