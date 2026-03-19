@@ -115,21 +115,21 @@ specify init my-models --ai claude
 
 Available slash commands in Claude Code:
 
-/speckit.constitution - Set project principles/guidelines
-/speckit.specify - Define what you want to build (requirements)
-/speckit.plan - Create technical implementation plan
-/speckit.tasks - Break down into actionable tasks
-/speckit.implement - Execute the implementation
-/speckit.clarify - Clarify underspecified areas
-/speckit.analyze - Cross-check consistency
+- /speckit.constitution - Set project principles/guidelines
+- /speckit.specify - Define what you want to build (requirements)
+- /speckit.plan - Create technical implementation plan
+- /speckit.tasks - Break down into actionable tasks
+- /speckit.implement - Execute the implementation
+- /speckit.clarify - Clarify underspecified areas
+- /speckit.analyze - Cross-check consistency
 
 For example:
 
-Use /speckit.constitution to establish your scientific computing principles (reproducibility, performance, extensibility)
-Use /speckit.specify to document what velocity centiles should do conceptually (the math, the workflow, expected inputs/outputs)
-Use /speckit.plan to specify your tech stack decisions (pure functions vs classes, xarray structures, config approach)
-Use /speckit.tasks to break down the refactoring into ordered steps
-Use /speckit.implement to execute the transformation
+- Use /speckit.constitution to establish your scientific computing principles (reproducibility, performance, extensibility)
+- Use /speckit.specify to document what velocity centiles should do conceptually (the math, the workflow, expected inputs/outputs)
+- Use /speckit.plan to specify your tech stack decisions (pure functions vs classes, xarray structures, config approach)
+- Use /speckit.tasks to break down the refactoring into ordered steps
+- Use /speckit.implement to execute the transformation
 
 This would give you versioned, documented decision-making for your research code - which is valuable for reproducibility and for onboarding collaborators.
 
