@@ -139,3 +139,8 @@ An example project with spec-kit: Building a website on advanced git use.
 ## Skills.md 
 
 ## Claude.md
+
+## Materials:
+
+Yarik's slides: 
+https://datasets.datalad.org/centerforopenneuroscience/talks/2026-ca-origami-retreat-aicoding.html#/
