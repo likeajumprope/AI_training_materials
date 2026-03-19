@@ -4,7 +4,8 @@ Repository and collection of materials and stuff I have found and tried, around 
 ## Levels of interacting with AI
 AI is continously evolving. There are many ways and levels how you can interact with AI. 
 
-This summary is based on this vide:
+This summary is based on this video:
+<br>
 [![Watch the video](https://img.youtube.com/vi/6W_-YWHKwZ4/hqdefault.jpg)](https://www.youtube.com/embed/6W_-YWHKwZ4)
 
 
