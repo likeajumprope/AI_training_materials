@@ -136,4 +136,6 @@ This would give you versioned, documented decision-making for your research code
 An example project with spec-kit: Building a website on advanced git use.
 
 
-## Skills
+## Skills.md 
+
+## Claude.md
