@@ -138,7 +138,7 @@ An example project with spec-kit: Building a website on advanced git use.
 </details>
 
 <details><summary>  /speckit.constitution </summary>
-
+<br>
 Establish principles for an educational Quarto website teaching terminal-based Git 
 to rehabilitation science students and researchers. Key principles:
 
@@ -179,7 +179,9 @@ RESEARCH BEST PRACTICES:
 
 </details>
 
-/speckit.specify
+</details>
+
+<details><summary>  /speckit.specify </summary>
 
 Build "Terminal-Based Git for Rehabilitation Research" - a comprehensive Quarto 
 website teaching Git exclusively through the command line, starting from terminal 
@@ -379,6 +381,8 @@ DESIGN REQUIREMENTS:
 - Mobile-responsive but optimized for desktop (terminal work)
 - Dark mode option (common for terminal users)
 - Copy-to-clipboard buttons for all commands
+
+</details>
 
 ## Skills.md 
 
