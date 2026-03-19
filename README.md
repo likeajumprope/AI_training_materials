@@ -7,6 +7,7 @@ AI is continously evolving. There are many ways and levels how you can interact 
 Stages:
 
 <details><summary>  </summary>
+  
 ## Stage 1: Chat interface coding
 What: Having Chat/GPT or Claude open, chatting with the model, having the chat interface open and using it for code. Copying and pasting code
 
@@ -21,6 +22,7 @@ Time to master this level:
 How you know you have mastered this skill:
 - You can write prompts, selectively generate a context and produce output with consistently good results.
 </details>
+
 ## Stage 2: Mid-loop generation
 
 What: Having an AI in your IDE, using auto-complete
