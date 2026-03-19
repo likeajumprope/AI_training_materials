@@ -40,7 +40,8 @@ How you know you have mastered this skill:
 
 </details>
 
-## Stage 3: In the loop agentic coding
+<details><summary>  Stage 3: In the loop agentic coding </summary>
+<br>
 
 What: Build out the skills to work with an AI, interact, "babysit" the AI
 
@@ -56,7 +57,10 @@ How do you know that you have mastered this level:
 - You see and understand the struggle and problems around the interaction with an AI
 - You have a prompt library and meta AI skills and prompts, resuable code and context, hooks
 
-## Stage 4: On the loop agentic coding
+</details>
+
+<details><summary>  Stage 4: On the loop agentic coding </summary>
+<br>
 
 What: You spec the work and hand the work over to an AI, then you come back and revisit the work.
 
@@ -68,11 +72,14 @@ Skills:
 How you know that you have mastered this skill:
 - You can hand off the work to an AI and come back and the outout is correct and of high quaility
 
-## Multi-agent coding
+</details>
+
+<details><summary>  Stage 5: Multi-agent coding </summary>
 
 Skills:
 - Claude code teams
 
+</details>
 
   
 
