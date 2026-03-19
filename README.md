@@ -99,6 +99,40 @@ This repository: https://github.com/con/yolo
 
 Spec-Kit is GitHub's toolkit for "Spec-Driven Development",  a methodology where you write detailed specifications first, then use AI agents to implement them. It's designed to work with various AI coding assistants including Claude Code.
 
+How to use Spec-Kit with Claude:
+
+Install the Spec-Kit CLI:
+
+```bash
+uv tool install specify-cli --from git+https://github.com/github/spec-kit.git
+```
+
+Initialize a project with Claude support:
+
+```bash
+specify init my-models --ai claude
+```
+
+Available slash commands in Claude Code:
+
+/speckit.constitution - Set project principles/guidelines
+/speckit.specify - Define what you want to build (requirements)
+/speckit.plan - Create technical implementation plan
+/speckit.tasks - Break down into actionable tasks
+/speckit.implement - Execute the implementation
+/speckit.clarify - Clarify underspecified areas
+/speckit.analyze - Cross-check consistency
+
+For example:
+
+Use /speckit.constitution to establish your scientific computing principles (reproducibility, performance, extensibility)
+Use /speckit.specify to document what velocity centiles should do conceptually (the math, the workflow, expected inputs/outputs)
+Use /speckit.plan to specify your tech stack decisions (pure functions vs classes, xarray structures, config approach)
+Use /speckit.tasks to break down the refactoring into ordered steps
+Use /speckit.implement to execute the transformation
+
+This would give you versioned, documented decision-making for your research code - which is valuable for reproducibility and for onboarding collaborators.
+
 An example project with spec-kit: Building a website on advanced git use.
 
 
