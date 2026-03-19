@@ -6,8 +6,6 @@ AI is continously evolving. There are many ways and levels how you can interact 
 
 [![Watch the video](https://img.youtube.com/vi/6W_-YWHKwZ4/hqdefault.jpg)](https://www.youtube.com/embed/6W_-YWHKwZ4)
 
-[<img src="https://img.youtube.com/vi/6W_-YWHKwZ4/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/6W_-YWHKwZ4)
 
 
 https://www.youtube.com/watch?v=6W_-YWHKwZ4
