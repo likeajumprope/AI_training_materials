@@ -113,7 +113,7 @@ Initialize a project with Claude support:
 specify init my-models --ai claude
 ```
 
-Available slash commands in Claude Code:
+Available shash commands in Claude Code:
 
 - /speckit.constitution - Set project principles/guidelines
 - /speckit.specify - Define what you want to build (requirements)
@@ -383,6 +383,78 @@ DESIGN REQUIREMENTS:
 - Copy-to-clipboard buttons for all commands
 
 </details>
+
+
+
+<details> /speckit.plan</details>
+FRAMEWORK: Quarto
+- Version: Latest stable (1.4+)
+- Format: Website project
+- Theme: Custom based on "darkly" or "cyborg" (terminal aesthetic)
+- Code highlighting: Terminal/bash-focused theme
+
+STRUCTURE:
+_quarto.yml: 
+  - Site navigation with module progression
+  - Terminal-friendly theme configuration
+  - Search enabled
+  - Syntax highlighting for bash, shell, git output
+
+index.qmd: Landing page
+  - Course overview
+  - Prerequisites (none!)
+  - Learning path visualization
+  - Why terminal > GUI for research
+
+modules/:
+  - 00-terminal-fundamentals.qmd
+  - 01-git-concepts.qmd
+  - 02-basic-workflow.qmd
+  - 03-remotes.qmd
+  - 04-branching.qmd
+  - 05-merging.qmd
+  - 06-rebase.qmd
+  - 07-advanced-operations.qmd
+  - 08-data-management.qmd
+  - 09-collaboration.qmd
+  - 10-troubleshooting.qmd
+  - 11-tool-integration.qmd
+  - 12-professional-repos.qmd
+
+exercises/: Hands-on terminal exercises per module
+
+reference/:
+  - command-index.qmd (searchable command reference)
+  - error-messages.qmd (common errors and solutions)
+  - cheat-sheet.qmd (downloadable PDF)
+  - glossary.qmd
+
+resources/:
+  - setup-guides/ (platform-specific setup)
+  - further-reading.qmd
+  - git-internals-deep-dive.qmd
+
+SPECIAL FEATURES:
+- Terminal code blocks with bash syntax highlighting
+- Collapsible "Expected Output" sections
+- Platform-specific callouts (macOS/Linux/Windows)
+- Mermaid diagrams for .git directory structure
+- Annotated terminal screenshots (with arrows, highlights)
+- Copy button for all commands
+- "Try it yourself" interactive sections
+
+DEPLOYMENT:
+- GitHub Pages via GitHub Actions
+- Custom domain (optional)
+- Automated accessibility checks (terminal contrast)
+
+DEVELOPMENT:
+- Local preview: quarto preview
+- Validate all commands on multiple platforms
+- Screenshot terminal output with consistent styling
+- Test copy buttons
+
+</details> 
 
 ## Skills.md 
 
