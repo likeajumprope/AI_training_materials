@@ -42,8 +42,8 @@ Spec-Kit provides seven slash commands for structured, reproducible software dev
 ```
 /speckit.constitution  →  /speckit.specify  →  /speckit.clarify  →  /speckit.plan  →  /speckit.tasks  →  /speckit.analyze  →  /speckit.implement
       ↓                        ↓                      ↓                    ↓                  ↓                    ↓                      ↓
-  Project              Feature            Fill gaps          Technical        Task           Quality          Build actual
-  principles         requirements        before plan        decisions      breakdown         gate            project files
+  Project                    Feature            Fill gaps              Technical            Task                 Quality          Build actual
+  principles                requirements        before plan            decisions            breakdown             gate            project files
 ```
 
 ---
