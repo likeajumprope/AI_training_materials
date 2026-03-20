@@ -8,7 +8,7 @@ Repository and collection of materials and stuff I have found and tried, around 
 ## Multi-agentic AI
 
 
-## [Spec-kit](Spec-kit.md)
+## [Spec-Kit](Spec-kit.md)
 
 
 ## Skills.md 
