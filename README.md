@@ -472,6 +472,30 @@ DEVELOPMENT:
 
 </details> 
 
+<details><summary>  /speckit.tasks </summary>
+
+Would generate something like:
+1. Initialize Quarto website project structure
+2. Configure _quarto.yml with navigation and terminal theme
+3. Set up CSS for terminal aesthetic (monospace, colors)
+4. Write Module 0: Terminal Fundamentals
+5. Create hands-on exercises for Module 0
+6. Test Module 0 commands on macOS, Linux, Windows
+7. Write Module 1: Git Conceptual Foundation
+8. Create .git directory diagrams (Mermaid)
+9. Create hands-on .git exploration exercise
+... (continue for all modules)
+35. Create command index with search
+36. Create error messages glossary
+37. Generate downloadable cheat sheet PDF
+38. Set up GitHub Actions for deployment
+39. Test on mobile and desktop
+40. Accessibility audit
+41. Cross-platform command validation
+42. Launch
+
+</details>
+
 ## Skills.md 
 
 ## Claude.md
