@@ -125,6 +125,9 @@ Move into your folder. Launch Claude terminal:
 claude
 ```
 
+<img width="742" height="538" alt="image" src="https://github.com/user-attachments/assets/2dec2232-bb30-4076-b4c9-4316ed246373" />
+
+
 Available shash commands in Claude Code:
 
 - /speckit.constitution - Set project principles/guidelines
