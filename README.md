@@ -112,6 +112,8 @@ Initialize a project with Claude support:
 ```bash
 specify init my-models --ai claude
 ```
+You might have to authorize.
+
 
 Available shash commands in Claude Code:
 
