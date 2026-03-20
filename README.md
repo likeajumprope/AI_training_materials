@@ -12,6 +12,7 @@ Repository and collection of materials and stuff I have found and tried, around 
 
 
 ## Skills.md 
+https://www.gitbook.com/blog/skill-md
 
 ## Claude.md
 
