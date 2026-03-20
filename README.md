@@ -385,9 +385,9 @@ DESIGN REQUIREMENTS:
 </details>
 
 
+<details><summary>  /speckit.plan </summary>
 
-<details> /speckit.plan</details>
-FRAMEWORK: Quarto
+  FRAMEWORK: Quarto
 - Version: Latest stable (1.4+)
 - Format: Website project
 - Theme: Custom based on "darkly" or "cyborg" (terminal aesthetic)
