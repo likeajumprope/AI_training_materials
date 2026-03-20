@@ -149,6 +149,7 @@ For example:
 This would give you versioned, documented decision-making for your research code - which is valuable for reproducibility and for onboarding collaborators.
 
 An example project with spec-kit: Building a website on advanced git use.
+Ideally, you complete this step in two steps: 1) Let Claude fill in a detailed description of each step 2) Review 3) Paste each of the descriptions into the termial when evoking each spec-kit step.
 
 </details>
 
