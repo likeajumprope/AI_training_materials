@@ -8,6 +8,9 @@ This summary is based on this video:
 <br>
 [![Watch the video](https://img.youtube.com/vi/6W_-YWHKwZ4/hqdefault.jpg)](https://www.youtube.com/embed/6W_-YWHKwZ4)
 
+Now you are redy to set the parameters for your project:
+
+<img width="654" height="538" alt="image" src="https://github.com/user-attachments/assets/7ac0e0be-4ab0-4e22-9e48-642d7783468a" />
 
 Stages:
 
