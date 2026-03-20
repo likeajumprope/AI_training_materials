@@ -2,9 +2,7 @@
 Repository and collection of materials and stuff I have found and tried, around AI
 
   
-## Claude in yolo mode (in a container)
-
-This repository: https://github.com/con/yolo
+## [Claude in yolo mode (in a container)](https://github.com/con/yolo)
 
 
 ## Multi-agentic AI
