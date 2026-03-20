@@ -29,3 +29,12 @@ claude
 ```
 
 <img width="742" height="538" alt="image" src="https://github.com/user-attachments/assets/2dec2232-bb30-4076-b4c9-4316ed246373" />
+
+## The Complete Workflow
+
+```bash
+/speckit.constitution  →  /speckit.specify  →  /speckit.clarify  →  /speckit.plan  →  /speckit.tasks  →  /speckit.analyze  →  /speckit.implement
+      ↓                        ↓                      ↓                    ↓                  ↓                    ↓                      ↓
+  Project              Feature            Fill gaps          Technical        Task           Quality          Build actual
+  principles         requirements        before plan        decisions      breakdown         gate            project files
+```
