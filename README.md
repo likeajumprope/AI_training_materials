@@ -9,6 +9,7 @@ Repository and collection of materials and stuff I have found and tried, around 
 
 
 ## [Spec-Kit](Spec-kit.md)
+Spec-Kit is GitHub's toolkit for "Spec-Driven Development", a methodology where you write detailed specifications first, then use AI agents to implement them. It's designed to work with various AI coding assistants including Claude Code.
 
 
 ## Skills.md 
